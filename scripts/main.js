@@ -1,0 +1,11 @@
+Weathers.suspendParticles.hidden = false
+StatusEffects.muddy.show = true
+StatusEffects.corroded.show = true
+StatusEffects.invincible.show = true
+StatusEffects.sapped.show = true
+StatusEffects.shielded.show = true
+Blocks.duct.buildVisibility = BuildVisibility.shown
+Blocks.ductBridge.buildVisibility = BuildVisibility.shown
+Blocks.ductRouter.buildVisibility = BuildVisibility.shown
+Vars.enableConsole = true
+Vars.experimental = true

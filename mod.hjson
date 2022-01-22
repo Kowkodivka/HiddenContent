@@ -1,0 +1,7 @@
+displayName: "Hidden content"
+name: "hc"
+author: "Darkness, Lucin"
+description: "[accent]Added new hidden content :eyes:"
+version: 1.1
+hidden: True
+minGameVersion: 130
